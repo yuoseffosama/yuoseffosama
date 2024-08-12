@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @yuoseffosama
-⩝ 𓃵 passionate about :
-:lotus:Egypt 𓁡 𓂗
-:dove:Human Rights 
+passionate about :
+Egypt 𓁡 𓂗
+Human Rights 
 Feeding on science and interested :
-‎‏:comet:Theoretical Physics
-‎‏:ringed_planet:Astronomy
-‎‏:dna:Evolutionary biology
-‎:robot:‏Anthropology
-:levitate:Philosophy
+Theoretical Physics
+Astronomy
+Evolutionary biology
+‏
+Anthropology
+Philosophy
 
 <!---
 yuoseffosama/yuoseffosama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
